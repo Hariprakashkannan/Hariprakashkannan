@@ -13,9 +13,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D7?logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white"/>
